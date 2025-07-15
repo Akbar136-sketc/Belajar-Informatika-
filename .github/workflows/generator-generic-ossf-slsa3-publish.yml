@@ -1,0 +1,18 @@
+# Belajar Bersama Jumatul Akbar
+
+Website pembelajaran Informatika untuk siswa SMA.
+
+## Isi Projek
+- `index.html` – Halaman depan
+- `README.md` – Dokumen ini
+
+## Cara Deploy di GitHub Pages
+1. Buat repository baru di GitHub (misalnya: `belajar-informatika`)
+2. Unggah kedua file (`index.html`, `README.md`)
+3. Commit perubahan
+4. Masuk ke **Settings → Pages**
+5. Pilih:
+   - Source: `main` (atau `master`)
+   - Folder: `/root`
+6. Klik **Save** & tunggu beberapa saat
+7. Akses di: `https://username.github.io/nama-repo/`
